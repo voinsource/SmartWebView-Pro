@@ -6,4 +6,4 @@ To get SWV Pro, [Contact me](getmgks@gmail.com) and for demo, look into [Release
 
 ## Document tree
 \Android
-<br> &nbsp; &nbsp; \fcm.md `Learn how FCM is implemented in the project and to set it up for your server script`
+<br> &nbsp; &nbsp; -- \fcm.md `Learn how FCM is implemented in the project and to set it up for your server script`
