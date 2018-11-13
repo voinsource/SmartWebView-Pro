@@ -7,5 +7,5 @@ To get SWV Pro, [Contact me](mailto:getmgks@gmail.com) and for demo, look into [
 ## Directory structure
 ```bash
 Android
-├─ /fcm.md     \\Learn how FCM is implemented in the project and to set it up for your server script
+├─ /fcm.md     #Learn how FCM is implemented in the project and to set it up for your server script
 ```
