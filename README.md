@@ -10,4 +10,5 @@ To get SWV Pro, [Contact me](mailto:getmgks@gmail.com) and for demo, look into [
 ```bash
 Android
 ├─ /fcm.md     #Learn how FCM is implemented in the project and to set it up for your server script
+├─ /admob.md   #Adding your publisher's ID and creating ad unit
 ```
