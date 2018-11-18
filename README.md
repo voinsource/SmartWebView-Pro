@@ -32,8 +32,8 @@ For latest preview app, look into [Releases](https://github.com/mgks/SmartWebVie
 This is a commercial project made for small and medium businesses to get started initially with their web applications.<br>
 To receive your copy of Smart WebView Pro, just drop an email to [getmgks@gmail.com].
 
-## Known issues in this version
-* Not reported yet.
+## Known issues in current version (v1.0)
+* Nothing reported yet.
 * Feel free to report your problems in [Issues](https://github.com/mgks/SmartWebView-Pro/issues) tab.
 
 ## Acknowledgment
