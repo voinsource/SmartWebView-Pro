@@ -42,3 +42,5 @@ This project will be updated time to time and if you want, I can keep you inform
 **Note:** Once project copy sent to you, payment can't be refunded. But you can email me back if any help needed, or you're having any trouble setting things up, I got you covered there. I'm a human afterall, so just feel free to talk.
 
 And have an awesome day :)
+
+![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fmgks%2FSmartWebView-Pro&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-129370045-2&z=887657232 "ga tracker")
