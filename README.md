@@ -39,6 +39,6 @@ To receive your copy of Smart WebView Pro, just drop an email to [getmgks@gmail.
 ## Acknowledgment
 This project will be updated time to time and if you want, I can keep you informed about that.
 
-**Note:** Once project copy sent to you, payment can't be refunded. But you can talk to me if any help needed, or you're having any trouble setting things up, I got you covered there. I'm a human afterall, so just feel free to talk.
+**Note:** Once project copy sent to you, payment can't be refunded. But you can email me back if any help needed, or you're having any trouble setting things up, I got you covered there. I'm a human afterall, so just feel free to talk.
 
 And have an awesome day :)
