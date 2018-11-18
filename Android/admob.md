@@ -1,4 +1,4 @@
-# Firebase Cloud Messaging
+# Google AdMob
 
 Find more about AdMob implemented in the project and instructions to set-up admob for your app.
 
