@@ -86,18 +86,12 @@ body{margin: 0 auto;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     font-size: 2em;
     display: block;
     color: #d97000;
+    font-weight: 400;
 }
 
 .money i {
     font-size: .75em;
     font-family: sans-serif;
-}
-
-.money .terms {
-    display: block;
-    margin: 1.5em;
-    font-size: .9em;
-    font-weight: 500;
 }
 
 .paypal {
@@ -109,7 +103,9 @@ body{margin: 0 auto;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     color: #fff;
     cursor: pointer;
 }
-
+.paypf {
+    margin: 1em 0;
+}
 .paypf input {
     display: block;
     margin: 1em;
