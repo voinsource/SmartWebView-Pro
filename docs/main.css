@@ -122,4 +122,7 @@ body{margin: 0 auto;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     display: block;
     font-size: .75em;
     font-weight: 500;
-}
+}.buy-box .info {
+    text-align: left;
+    margin: 2em;
+}.buy-box .info a{color:#fff}
