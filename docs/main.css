@@ -116,8 +116,14 @@ body{margin: 0 auto;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     border: 0;
     padding: .5em;
     font-size: 1em;
+    font-weight: 500;
     width: 450px;
     font-family: inherit;
     text-align: center;
     border-radius: 3px;
+}.buy-box .terms {
+    margin: .5em;
+    display: block;
+    font-size: .75em;
+    font-weight: 500;
 }
