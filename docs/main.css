@@ -26,6 +26,7 @@ body{margin: 0 auto;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 .butt-block button {
+    cursor: pointer;
     background-color: transparent;
     font-size: 1em;
     padding: .5em 1em;
