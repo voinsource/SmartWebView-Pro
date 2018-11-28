@@ -4,9 +4,9 @@
 
 This is a Documentation Repo for Smart WebView commercial app, to help you get started with the project source and learn how to implement certain features.<br>
 
-To get the source code, drop me and email [getmgks@gmail.com].
+Get your copy of [SWV Pro here](https://mgks.github.io/SmartWebView-Pro/), or drop me an email at [getmgks@gmail.com].
 
-For latest preview app, look into [Releases](https://github.com/mgks/SmartWebView-Pro/releases).
+For latest app version preview, look into [Releases](https://github.com/mgks/SmartWebView-Pro/releases).
 
 ## Features
 * Firebase Push Notifications
@@ -31,9 +31,9 @@ For latest preview app, look into [Releases](https://github.com/mgks/SmartWebVie
 └─ /share.md    #Learn how to handle/parse external content shared w/ app
 ```
 
-## To Get Smart WebView Pro
+## Smart WebView Pro is a paid app
 This is a commercial project made for small and medium businesses to get started initially with their web applications.<br>
-To receive your copy of Smart WebView Pro, just drop an email to [getmgks@gmail.com].
+You can get your copy of Smart WebView Pro at a small fee, for any query just drop an email to [getmgks@gmail.com].
 
 ## Known issues in current version (v1.0)
 * Nothing reported yet.
