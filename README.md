@@ -1,21 +1,24 @@
 # Smart WebView Pro
 
-<img src="https://img.shields.io/badge/version-1.0-yellow.svg" />
+[![alt text](https://img.shields.io/badge/version-1.0-yellow.svg "SWV Pro v1.0")](https://github.com/mgks/SmartWebView-Pro) [![alt text](https://img.shields.io/badge/download-swv%20pro-brightgreen.svg "Get SWV Pro")](https://mgks.github.io/SmartWebView-Pro/)
 
 This is a Documentation Repo for Smart WebView commercial app, to help you get started with the project source and learn how to implement certain features.<br>
 
-To get the source code, drop me and email [getmgks@gmail.com].
+Get your copy of [SWV Pro here](https://mgks.github.io/SmartWebView-Pro/), or drop me an email at [getmgks@gmail.com].
 
-For latest preview app, look into [Releases](https://github.com/mgks/SmartWebView-Pro/releases).
+For latest app version preview, look into [Releases](https://github.com/mgks/SmartWebView-Pro/releases).
 
 ## Features
 * Firebase Push Notifications
 * Google AdMob
+* Live GPS Location
+* Multiple File Upload
+* Camera Photo Processing
 * Navigation Drawer
 * Search Bar
 * Action Menu
 * Chrome Tab for External URLs
-* And more
+* And More
 
 ## Documentation structure
 ```bash
@@ -23,14 +26,14 @@ For latest preview app, look into [Releases](https://github.com/mgks/SmartWebVie
 ├─ /admob.md    #Adding your publisher's ID and creating ad unit
 ├─ /chrome.md   #Setting whether you want to use chrome tab for external users or default browsers
 ├─ /fcm.md      #Learn how FCM is implemented in the project and to set it up for your server script
-├─ /gps.md      #Get user's live GPS location updates 
+├─ /gps.md      #Get user's live GPS location updates
 ├─ /layout.md   #Switch between different layouts available in the project w/ accordance to your requirement
-├─ /share.md    #Learn how to handle/parse external content shared w/ app
+└─ /share.md    #Learn how to handle/parse external content shared w/ app
 ```
 
-## To Get Smart WebView Pro
+## Smart WebView Pro is a paid app
 This is a commercial project made for small and medium businesses to get started initially with their web applications.<br>
-To receive your copy of Smart WebView Pro, just drop an email to [getmgks@gmail.com].
+You can get your copy of Smart WebView Pro at a small fee, for any query just drop an email to [getmgks@gmail.com].
 
 ## Known issues in current version (v1.0)
 * Nothing reported yet.
