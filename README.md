@@ -31,13 +31,21 @@ For latest app version preview, look into [Releases](https://github.com/voinsour
 └─ /share.md    #Learn how to handle/parse external content shared w/ app
 ```
 
-## Smart WebView Pro is a paid app
-This is a commercial project made for small and medium businesses to get started initially with their web applications.<br>
-You can get your copy of Smart WebView Pro at a small fee, for any query just drop an email to [getmgks@gmail.com].
+## Change Log
+```bash
+December 1, 2018
+- Smart WebView Pro v1.0 released
+```
 
 ## Known issues in current version (v1.0)
-* Nothing reported yet.
-* Feel free to report your problems in [Issues](https://github.com/voinsource/SmartWebView-Pro/issues) tab.
+```
+> Nothing reported yet.
+```
+Feel free to report your problems in [Issues](https://github.com/voinsource/SmartWebView-Pro/issues) tab.
+
+## Smart WebView Pro Paid License
+This is a commercial project made for small and medium businesses to get started initially with their web applications.<br>
+You can get your copy of Smart WebView Pro at a small fee, for any query just drop an email to [getmgks@gmail.com].
 
 ## Acknowledgment
 This project will be updated time to time and if you want, I can keep you informed about that.
