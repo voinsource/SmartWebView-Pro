@@ -1,12 +1,12 @@
 # Smart WebView Pro
 
-[![alt text](https://img.shields.io/badge/version-1.0-yellow.svg "SWV Pro v1.0")](https://github.com/mgks/SmartWebView-Pro) [![alt text](https://img.shields.io/badge/download-swv%20pro-brightgreen.svg "Get SWV Pro")](https://mgks.github.io/SmartWebView-Pro/)
+[![alt text](https://img.shields.io/badge/version-1.0-yellow.svg "SWV Pro v1.0")](https://github.com/voinsource/SmartWebView-Pro) [![alt text](https://img.shields.io/badge/download-swv%20pro-brightgreen.svg "Get SWV Pro")](https://voinsource.github.io/SmartWebView-Pro/)
 
 This is a Documentation Repo for Smart WebView commercial app, to help you get started with the project source and learn how to implement certain features.<br>
 
-Get your copy of [SWV Pro here](https://mgks.github.io/SmartWebView-Pro/), or drop me an email at [getmgks@gmail.com].
+Get your copy of [SWV Pro here](https://voinsource.github.io/SmartWebView-Pro/), or drop me an email at [getmgks@gmail.com].
 
-For latest app version preview, look into [Releases](https://github.com/mgks/SmartWebView-Pro/releases).
+For latest app version preview, look into [Releases](https://github.com/voinsource/SmartWebView-Pro/releases).
 
 ## Features
 * Firebase Push Notifications
@@ -37,7 +37,7 @@ You can get your copy of Smart WebView Pro at a small fee, for any query just dr
 
 ## Known issues in current version (v1.0)
 * Nothing reported yet.
-* Feel free to report your problems in [Issues](https://github.com/mgks/SmartWebView-Pro/issues) tab.
+* Feel free to report your problems in [Issues](https://github.com/voinsource/SmartWebView-Pro/issues) tab.
 
 ## Acknowledgment
 This project will be updated time to time and if you want, I can keep you informed about that.
