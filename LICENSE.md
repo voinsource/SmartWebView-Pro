@@ -1,3 +1,4 @@
+```
 # VOINSOURCE PUBLIC LICENSE
 
 > Version 1.0, December 2018
@@ -11,4 +12,21 @@
 
 2. Redistribution of the original or modified copy of the work is not allowed, which is obviously not a nice thing to do.
 
-3. Changes in original work are completely dependent on the license owner, until and unless they intent to sell it further.
+3. Changes in original work is completely dependent on the licensed owner, until and unless they intent to sell it further, which is definitely not suggested.
+
+4. Single license purchased will work for lifetime, meeting following criteria;
+    4a. Used/Reused/Modified by/for a single entity.
+    4b. With regards to the specific version of the original work bought.
+ 
+5. Customer support is not included with the license, which makes it totally dependent on the original work owners to provide exclusive support or not.
+
+6. Original work may/maynot contain some open source work, that may come with its own license which won't conflicted this license anyhow.
+
+7. License owner is completely independent to raise an issue with the original work owner incase of any unexpected problem.
+
+8. This license can be updated anytime without any warning but will keep record of updates via Git.
+
+9. License owner is also suggested to enjoy their time, while we are on this beautiful planet and not nuked by any nuclear blob.
+
+10. License creators are really chill with the voinsource terms and license feedback, and open to add/improve these conditions if needed. So feel free to send in your feedbacks to connect@infeeds.com with subject "voinsource license feedback".
+```
