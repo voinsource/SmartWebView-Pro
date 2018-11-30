@@ -1,10 +1,10 @@
 # Smart WebView Pro
 
-[![alt text](https://img.shields.io/badge/version-1.0-yellow.svg "SWV Pro v1.0")](https://github.com/voinsource/SmartWebView-Pro) [![alt text](https://img.shields.io/badge/download-swv%20pro-brightgreen.svg "Get SWV Pro")](https://voinsource.github.io/SmartWebView-Pro/)
+[![alt text](https://img.shields.io/badge/version-1.0-yellow.svg "SWV Pro v1.0")](https://github.com/voinsource/SmartWebView-Pro) [![alt text](https://img.shields.io/badge/purchase-SWV%20Pro-brightgreen.svg "Get SWV Pro")](https://voinsource.github.io/SmartWebView-Pro/)
 
 This is a Documentation Repo for Smart WebView commercial app, to help you get started with the project source and learn how to implement certain features.<br>
 
-Get your copy of [SWV Pro here](https://voinsource.github.io/SmartWebView-Pro/), or drop me an email at [getmgks@gmail.com].
+To get your copy of SWV Pro [proceed here](https://voinsource.github.io/SmartWebView-Pro/), or drop me an email at [getmgks@gmail.com].
 
 For latest app version preview, look into [Releases](https://github.com/voinsource/SmartWebView-Pro/releases).
 
@@ -53,5 +53,3 @@ This project will be updated time to time and if you want, I can keep you inform
 **Note:** Once project copy sent to you, payment can't be refunded. But you can email me back if any help needed, or you're having any trouble setting things up, I got you covered there. I'm a human afterall, so just feel free to talk.
 
 And have an awesome day :)
-
-![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fmgks%2FSmartWebView-Pro&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-129370045-2&z=887657232 "ga tracker")
