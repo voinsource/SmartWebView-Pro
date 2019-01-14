@@ -1,6 +1,6 @@
 # Smart WebView Pro
 
-[![alt text](https://img.shields.io/badge/version-1.0-yellow.svg "SWV Pro v1.0")](https://github.com/voinsource/SmartWebView-Pro) [![alt text](https://img.shields.io/badge/purchase-SWV%20Pro-brightgreen.svg "Get SWV Pro")](https://voinsource.github.io/SmartWebView-Pro/)
+[![alt text](https://img.shields.io/badge/version-1.x-orange.svg "SWV Pro v1.x")](https://github.com/voinsource/SmartWebView-Pro) [![alt text](https://img.shields.io/badge/purchase-SWV%20Pro-brightgreen.svg "Get SWV Pro")](https://voinsource.github.io/SmartWebView-Pro/)
 
 This is a Documentation Repo for Smart WebView commercial app, to help you get started with the project source and learn how to implement certain features.<br>
 
@@ -33,11 +33,17 @@ For latest app version preview, look into [Releases](https://github.com/voinsour
 
 ## Change Log
 ```bash
+January 12, 2019
+- Smart WebView Pro v1.1 released
+  - Updated image preview
+  - Disabled text selection and haptic feedback
+  - Notification title fixed
+
 December 1, 2018
 - Smart WebView Pro v1.0 released
 ```
 
-## Known issues in current version (v1.0)
+## Known issues in current version (v1.x)
 ```
 > Nothing reported yet.
 ```
