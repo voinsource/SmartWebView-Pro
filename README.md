@@ -33,6 +33,10 @@ For latest app version preview, look into [Releases](https://github.com/voinsour
 
 ## Change Log
 ```bash
+February 2, 2019
+- Smart WebView v1.2.1 released
+  - Fixed minor bugs
+
 January 12, 2019
 - Smart WebView Pro v1.1 released
   - Updated image preview
