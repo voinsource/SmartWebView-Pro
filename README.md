@@ -14,10 +14,11 @@ For latest app version preview, look into [Releases](https://github.com/voinsour
 * Live GPS Location
 * Multiple File Upload
 * Camera Photo Processing
+* Chromium Tabs for External URLs
+* Pull to Refresh
 * Navigation Drawer
 * Search Bar
 * Action Menu
-* Chrome Tab for External URLs
 * And More
 
 ## Documentation structure
@@ -33,6 +34,11 @@ For latest app version preview, look into [Releases](https://github.com/voinsour
 
 ## Change Log
 ```bash
+February 25, 2019
+- Smart WebView v1.2.2 released
+ - Pull refresh
+ - Minor bug fixes
+
 February 2, 2019
 - Smart WebView v1.2.1 released
   - Fixed minor bugs
