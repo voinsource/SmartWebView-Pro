@@ -2,6 +2,12 @@
 
 [![alt text](https://img.shields.io/badge/version-1.x-orange.svg "SWV Pro v1.x")](https://github.com/voinsource/SmartWebView-Pro) [![alt text](https://img.shields.io/badge/purchase-SWV%20Pro-brightgreen.svg "Get SWV Pro")](https://voinsource.github.io/SmartWebView-Pro/)
 
+
+# NOTE
+
+**July 15th, 2019: [Smart WebView Pro](https://github.com/voinsource/SmartWebView-Pro) soon to be merged with main project "[Androi Smart WebView](https://github.com/mgks/Android-SmartWebView)" and Pro variant will be dissolved for the good. Meanwhile, if you want to support the project you can buy Pro variant by the time it's alive.** 
+
+#
 This is a Documentation Repo for Smart WebView commercial app, to help you get started with the project source and learn how to implement certain features.<br>
 
 To get your copy of SWV Pro [proceed here](https://voinsource.github.io/SmartWebView-Pro/), or drop me an email at [getmgks@gmail.com].
