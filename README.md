@@ -1,7 +1,8 @@
-# Smart WebView Pro
+> NOTE (Sept. 15th, 2019 Update):
 
-### Sept. 15th, 2019 Update:
-**Smart WebView Pro is now merged with the main project [mgks/Android-SmartWebView](https://github.com/mgks/Android-SmartWebView) and all the prior advanced features are available as open source.**
+> **Smart WebView Pro is now merged with the main project [mgks/Android-SmartWebView](https://github.com/mgks/Android-SmartWebView) and all the prior advanced features are available as open source. Yay!**
+
+# Smart WebView Pro
 
 **If you want to support the project you can always [donate](https://ko-fi.com/getmgks) or buy any extra [feature plugins](https://voinsource.github.io/#plugins) made for SWV.**
 
@@ -12,7 +13,7 @@
 September 15, 2019
 - Smart WebView p_0.1 released as Open Source
  - Pro variant dissolved
- - Project moved to main source
+ - Project moved to main source (mgks/Android-SmartWebView)
  - Added extra feature plugins
  - Android 10 support
  - Updated build
