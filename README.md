@@ -4,7 +4,7 @@
 
 # Smart WebView Pro
 
-**If you want to support the project you can always [donate](https://ko-fi.com/getmgks) or buy any extra [feature plugins](https://voinsource.github.io/#plugins) made for SWV.**
+**If you want to support the project you can always [donate](https://ko-fi.com/getmgks) or get any extra [feature plugins](https://voinsource.github.io/#plugins) made for SWV.**
 
 <a href="https://ko-fi.com/Z8Z4BPQ6" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
 
