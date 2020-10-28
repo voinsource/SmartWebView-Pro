@@ -1,15 +1,42 @@
-> NOTE (Sept. 15th, 2019 Update):
+# Smart WebView Pro (Bundle Pack)
+SWV Pro is a framework built on Java/Kotlin to develop advanced hybrid webview applications with ease.
 
-> **Smart WebView Pro is now merged with the main project [mgks/Android-SmartWebView](https://github.com/mgks/Android-SmartWebView) and all the prior advanced features are available as open source. Yay!**
+A small build with features working out of the box: Live GPS Location, Google Login, Vision API, Notifications with FCM, AdMob, Chrome Tabs, Process Camera Input, QR/Barcode Reader, PQL, S2S, Upload/Download Files, Custom Rating System, Multiple User Interfaces and more.
 
-# Smart WebView Pro
+**[Get the source code](https://voinsource.github.io/SmartWebView-Pro/)**
 
-**If you want to support the project you can always [donate](https://ko-fi.com/getmgks) or get any extra [feature plugins](https://voinsource.github.io/#plugins) made for SWV.**
+For **instructions** (getting started, config etc) look into the repo documentation.
 
-<a href="https://ko-fi.com/Z8Z4BPQ6" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0" border="0" alt="Buy Me a Coffee at ko-fi.com" /></a>
+## Plugins
+
+**Google Login** - Let users Sign in/Sign up on your server with native Google login feature.
+
+**PQL** - Store/fetch/delete micro data on local storage, process information on client end instead of server for faster response.
+
+**S2S** - Send information to server seamlessly without reaload via different REST methods.
+
+**Background Services** - Run app/music services in background.
+
+**Google Vision API** - Derive insights from your images in the cloud or at the edge with AutoML.
+
+**Advanced Notifications** - Send images, bundle notifications and tag update message alerts.
+
+**Multiple Drawer Layouts** - Not just fullscreen, add native search, drawer and swipe features to the app.
+
+**QR/Barcode Reader** - Read any QR/Barcode image and even generate your own unique code with personalized data.
+
+**[Visit Plugins Page for more](https://voinsource.github.io/#plugins)**
 
 ## Change Log
 ```bash
+November 15, 2020
+- Smart WebView p_0.2 release
+ - Pro variant new update
+ - Added plugin support
+ - Android 11 support
+ - New build
+ - Minor bug fixes
+
 September 15, 2019
 - Smart WebView p_0.1 released as Open Source
  - Pro variant dissolved
