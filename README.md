@@ -30,7 +30,7 @@ For **instructions** (getting started, config etc) look into the repo documentat
 ## Change Log
 ```bash
 November 15, 2020
-- Smart WebView p_0.2 release
+- Smart WebView p_0.2 release 
  - Pro variant new update
  - Added plugin support
  - Android 11 support
@@ -38,7 +38,7 @@ November 15, 2020
  - Minor bug fixes
 
 September 15, 2019
-- Smart WebView p_0.1 released as Open Source
+- Smart WebView p_0.1 released as Open Source 
  - Pro variant dissolved
  - Project moved to main source (mgks/Android-SmartWebView)
  - Added extra feature plugins
