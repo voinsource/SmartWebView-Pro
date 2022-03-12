@@ -3,7 +3,7 @@ SWV Pro is a framework built on Java/Kotlin to develop advanced hybrid webview a
 
 A small build with features working out of the box: Live GPS Location, Google Login, Vision API, Notifications with FCM, AdMob, Chrome Tabs, Process Camera Input, QR/Barcode Reader, PQL, S2S, Upload/Download Files, Custom Rating System, Multiple User Interfaces and more.
 
-**[Get the source code (now moved to mgks.dev server)](https://mgks.dev/product/smart-webview-pro)**
+**[Get the source code (now moved to mgks.dev server)](https://mgks.dev/projects/smart-webview#pro)**
 
 For **instructions** (getting started, config etc) look into the repo documentation.
 
