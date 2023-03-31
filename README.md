@@ -25,7 +25,7 @@ For **instructions** (getting started, config etc) look into the repo documentat
 
 **QR/Barcode Reader** - Read any QR/Barcode image and even generate your own unique code with personalized data.
 
-**[Visit Plugins Page for more](https://mgks.dev/docs/smart-webview-documentation#plugins)**
+**[Visit Plugins Page for more](https://mgks.dev/blog/smart-webview-documentation#plugins)**
 
 ## Change Log
 ```bash
